@@ -1,9 +1,9 @@
 title: "画像認識AIの作成"
 summary: "画像認識の理論から実践まで、実際に手を動かしながら学びます"
 topics: []
-published: false
+published: true
 price: 0 # 有料の場合200〜5000
 # 本に含めるチャプターを順番に並べましょう
 chapters:
   - basic_theory_of_deep_learning
-  - basic_theory_of_cnn
+  #- basic_theory_of_cnn
