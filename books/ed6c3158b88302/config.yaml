@@ -6,4 +6,4 @@ price: 0 # 有料の場合200〜5000
 # 本に含めるチャプターを順番に並べましょう
 chapters:
   - basic_theory_of_deep_learning
-  #- basic_theory_of_cnn
+  - basic_theory_of_cnn
