@@ -7,3 +7,4 @@ price: 0 # 有料の場合200〜5000
 chapters:
   - basic_theory_of_deep_learning
   - basic_theory_of_cnn
+  - cifar10_pytorch
