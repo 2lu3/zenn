@@ -8,3 +8,4 @@ chapters:
   - basic_theory_of_deep_learning
   - basic_theory_of_cnn
   - cifar10_pytorch
+  - yolov5.md
